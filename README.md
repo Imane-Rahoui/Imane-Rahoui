@@ -6,7 +6,8 @@
 - ✅ I take great care in the experience, architecture, and code quality of the things I build.
 - 📄 There is my [resume](<RAHOUI Imane_Curriculum Vitae.pdf>)
 - 📫 Ask me about anything, I'm happy to help; [Email](mailto:imaanerahoui@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) OR [Linkedin](https://www.linkedin.com/in/imane-rahoui/);
-
+<br>
+<br>
 ⚙️ Languages AND Tools
 
 <img align="left" alt="html" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
