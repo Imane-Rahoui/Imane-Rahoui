@@ -1,5 +1,7 @@
               Hello there 👋 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anasm21&label=Profile%20views&color=0e75b6&style=flat" alt="iman" /> </p>
+
 - 👨🏻‍💻 I’m @Imane-Rahoui a passionate self-taught full stack web / mobile developer.
 - 🎓 I graduated with a degree in Software Engineering in 2023 from EMSI, Casablanca, Morocco and I hold a Master’s degree in MBDS (Mobiquité, Big Data et Intégration de Systèmes) from the University of Côte d’Azur.
 - 💞️ My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. 
