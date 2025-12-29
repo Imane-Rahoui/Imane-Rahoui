@@ -36,10 +36,6 @@
 <br><br>
 <br>
 
-👨‍👩‍👦‍👦 Visitors
-
-![Visitor Count](https://profile-counter.glitch.me/Imane-Rahoui/count.svg)
-
 
 <!---
 Imane-Rahoui/Imane-Rahoui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
